@@ -5,7 +5,7 @@ description: input 2 output
 # 头像里面的标题
 avatarTitle: hzfmer
 # 头像里面的描述
-avatarDesc: 断桥春水人不度，年少抛人容易去
+avatarDesc: 断桥春水人不度
 url: "http://hzfmer.github.io"
 
 # Comment
@@ -18,7 +18,7 @@ social:
     weibo: 2134970083 
     github: hzfmer
     # twitter: 
-    mail: zhh076@ucsd.edu.com
+    mail: zhh076@ucsd.edu
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
@@ -64,7 +64,7 @@ nav:
 
 # Pagination
 plugins: [jekyll-paginate,jekyll-sitemap]
-paginate: 20
+paginate: 10
 paginate_path: "page/:num/"
 
 
