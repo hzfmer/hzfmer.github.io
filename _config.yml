@@ -1,24 +1,24 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 胡志峰
+# subtitle: 胡志峰
+description: 春水断桥人不度
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: hzfmer
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: 年少抛人容易去
+url: "http://hzfmer.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: hzfmer
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 2134970083 
+    github: hzfmer
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: zhh076@ucsd.edu.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
@@ -36,7 +36,7 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#  帮忙star一下，感谢~😆 地址： https://github.com/hzfmer/hzfmer.github.io
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
@@ -63,7 +63,7 @@ nav:
     
 
 # Pagination
-gems: [jekyll-paginate,jekyll-sitemap]
+plugins: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
 
