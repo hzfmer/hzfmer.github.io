@@ -7,5 +7,5 @@ theme_color: 302F2D
 published: true
 ---
 
-# 个人博客终于上线了。
+# 个人博客终于上线了
 谢谢读者~~打赏~~来访
