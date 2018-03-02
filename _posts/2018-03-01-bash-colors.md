@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Records
-date: {2018-02-09}
+date:
+  'Thu Feb 08 2018 16:00:00 GMT-0800 (PST)': null
 tag: personal thoughts
 published: true
 ---
----
-published: false
----
+
 # Regular Colors
 
 | Value    | Color  |
