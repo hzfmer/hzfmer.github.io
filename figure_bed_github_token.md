@@ -1,2 +1,0 @@
-# Access token
-0ea5f5ebd97439bf0ceacadde2a4215b31bdf1c2
